@@ -1,10 +1,11 @@
 # 👋 Hi, I’m @djaydevs
 ### MAIL
 
-[djayflores8@gmail.com](mailto:djayflores8@gmail.com)  
+[flores.dannyjay@gmail.com](mailto:flores.dannyjay@gmail.com)  
 
-### SOCIAL
+### OTHER ACCOUNTS
 
+[CodePen](https://codepen.io/djaydevs/)
+[Dribbble](https://dribbble.com/djaydevs)
 [Twitter](https://twitter.com/djaydevs)  
 [Facebook](https://www.facebook.com/djayflores13)
-
