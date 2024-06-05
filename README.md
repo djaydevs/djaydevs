@@ -4,7 +4,7 @@
 <h4 align="left">Work Experience</h4>
 <ul>
   <li>
-    <strong>Website Development Intern at Focus Global Inc.</strong> - Front-end development on the SWE team. [BGC, Taguig. Jan - May 2024]
+    <strong>Website Development Intern at <a href="https://focusglobalinc.com">Focus Global Inc.</a></strong> - Front-end development on the SWE team. [BGC, Taguig. Jan - May 2024]
   </li>
 </ul>
 
